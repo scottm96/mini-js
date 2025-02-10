@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: aqua;
+    font-size: 1.8em;
+}
+
+button{
+    font-size: 2em;
+    background-color: deeppink;
+    border-radius: 8px;
+    box-shadow: 5px, 5px, 5px black;
+}
