@@ -1,2 +1,8 @@
-# mini-js
-mini js projects for learning
+# Minor JavaScript Projects
+
+A collection of small JavaScript projects.
+
+## Projects:
+- [Battleship Game](Battleship-js-game/)
+
+More to come! 🚀
